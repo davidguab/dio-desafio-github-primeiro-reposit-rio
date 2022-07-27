@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
+# dio-desafio-github-segundo-repositorio
 Desafio de Projeto sobre Git/GitHub
